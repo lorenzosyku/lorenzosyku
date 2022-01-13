@@ -5,21 +5,21 @@
 
 ## Languages
 
-<div>
+<div style={{display: flex}}>
   <div>
-    <span>Javascript</span><br><br><br>
+    <span>Javascript</span>
     <img height="32px" src="https://cdn.svgporn.com/logos/javascript.svg">
   </div>
   <div>
-    <span>React</span><br><br><br>
+    <span>React</span>
     <img height="32px" src="https://cdn.svgporn.com/logos/react.svg">
   </div>
   <div>
-    <span>Nextjs</span><br><br><br>
+    <span>Nextjs</span>
     <img height="32px" src="https://cdn.svgporn.com/logos/nextjs.svg">
   </div>
   <div>
-    <span>Tailwindcss</span><br><br><br>
+    <span>Tailwindcss</span>
     <img height="32px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
   </div>
 
@@ -27,17 +27,17 @@
 
 ## Tools 
 
-<div>
+<div style={{display: flex}}>
   <div>
-    <span>Firebase</span><br><br><br>
-    <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+    <span>Firebase</span>
+    <img height="32px" src="https://cdn.svgporn.com/logos/firebase.svg">
   </div>
   <div>
-    <span>Git</span><br><br><br>
+    <span>Git</span>
     <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg">
   </div>
   <div>
-    <span>Visual Studio Code</span><br><br><br>
+    <span>Visual Studio Code</span>
     <img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
   </div>
 </div>
