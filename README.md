@@ -1,10 +1,9 @@
-[![bg][banner]][website]
 
 ### Web developer
 
 👨🏼‍💻 building cool apps!  
-🧠 learning [nextjs][next], [typescript][typescript]  
-💜 loving [react][react], [firebase][firebase], [solidity][solidity]  
+🧠 learning [nextjs][next], [typescript][typescript], [solidity][solidity] 
+💜 loving [react][react], [firebase][firebase],   
 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
