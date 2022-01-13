@@ -1,5 +1,5 @@
 
-### Hi there, thanks for stopping by, my name is Lorenzo and I am a Software Developer
+### Hi there 👋, thanks for stopping by, my name is Lorenzo and I am a Software Developer
 
 👨🏼‍💻 Building cool apps! 
 
@@ -19,6 +19,9 @@
 ## Tools 
 
 <img height="32px" style="margin: 5px" src="https://cdn.svgporn.com/logos/firebase.svg"><img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"><img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+
+# Contact me
+[<img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'>](https://github.com/https://github.com/karkranikhil) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/karkranikhil) [<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nikhilkarkra/) [<img src='https://img.icons8.com/color/2x/twitter.png' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/karkra_nikhil)  [<img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/salesforcetroop)  [<img src='https://img.icons8.com/color/2x/youtube-play.png' alt='youtube' height='40'>](https://www.youtube.com/channel/UCAYCXLokF9UNrGmblxKPRXA) [<img src='https://img.icons8.com/color/2x/medium-logo.png' alt='Medium' height='40'>](https://medium.com/@karkranikhil) 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzosyku&show_icons=true&theme=dracula)](https://github.com/lorenzosyku/github-readme-stats)
