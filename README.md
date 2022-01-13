@@ -15,7 +15,7 @@
 
 ## Tools 
 
-[<img height="32px" src="https://cdn.svgporn.com/logos/firebase.svg">](https://firebase.google.com/) [<img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg">](https://git-scm.com/) [<img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">](https://code.visualstudio.com/) [<img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">](https://code.visualstudio.com/)
+[<img height="32px" src="https://cdn.svgporn.com/logos/firebase.svg">](https://firebase.google.com/) [<img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg">](https://git-scm.com/) [<img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">](https://code.visualstudio.com/)
 
 ## 📈 GitHub Stats
 
