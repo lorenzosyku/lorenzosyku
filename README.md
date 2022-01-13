@@ -13,37 +13,29 @@
 
 ## Languages
 
-<div style="display: flex; justify-content: space-between">
-  <div>
-    <img height="32px" src="https://cdn.svgporn.com/logos/javascript.svg">
-  </div>
-  <div>
-    <img height="32px" src="https://cdn.svgporn.com/logos/react.svg">
-  </div>
-  <div>
-    <img height="32px" color="white" src="https://cdn.svgporn.com/logos/nextjs.svg">
-  </div>
-  <div>
-    <img height="32px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
-  </div>
 
-</div>
+[<img height="32px" src="https://cdn.svgporn.com/logos/javascript.svg">]
+[<img height="32px" src="https://cdn.svgporn.com/logos/react.svg">]
+[<img height="32px" color="white" src="https://cdn.svgporn.com/logos/nextjs.svg">]
+[<img height="32px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">]
 
 ## Tools 
 
 <div style="display: flex; justify-content: space-between">
   <div>
-    <img height="32px" src="https://cdn.svgporn.com/logos/firebase.svg">
+    [<img height="32px" src="https://cdn.svgporn.com/logos/firebase.svg">]
   </div>
   <div>
-    <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+    [<img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg">]
   </div>
   <div>
-    <img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+    [<img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">]
   </div>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzosyku&show_icons=true&theme=dracula)](https://github.com/lorenzosyku/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzosyku&layout=compact)](https://github.com/lorenzosyku/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzosyku&show_icons=true&theme=dracula)](https://github.com/lorenzosyku/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzosyku&layout=compact)](https://github.com/lorenzosyku/github-readme-stats)
 
 
 
