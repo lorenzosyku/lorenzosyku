@@ -7,19 +7,17 @@
 
 💜 Loving [react][react], [firebase][firebase] 
 
-🏡 [website][website] **|** 
-
-👔 [linkedin][linkedin]
+🏡 [website][website] **|**  👔 [linkedin][linkedin]
 
 ## Languages
 
-
-<img height="32px" style="margin: 5px" src="https://cdn.svgporn.com/logos/javascript.svg"><img height="32px" src="https://cdn.svgporn.com/logos/react.svg"><img height="32px" color="white" src="https://cdn.svgporn.com/logos/nextjs.svg"><img height="32px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
+[<img height="32px" style="margin: 5px" src="https://cdn.svgporn.com/logos/javascript.svg">](https://www.javascript.com) [<img height="32px" src="https://cdn.svgporn.com/logos/react.svg">](https://reactjs.org) [<img height="32px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">](https://tailwindcss.com)
 
 ## Tools 
 
-[<img height="32px" src="https://cdn.svgporn.com/logos/firebase.svg">](https://firebase.google.com/) [<img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg">](https://git-scm.com/) [<img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">](https://code.visualstudio.com/)
+[<img height="32px" src="https://cdn.svgporn.com/logos/firebase.svg">](https://firebase.google.com/) [<img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg">](https://git-scm.com/) [<img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">](https://code.visualstudio.com/) [<img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">](https://code.visualstudio.com/)
 
+## 📈 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzosyku&show_icons=true&theme=dracula)](https://github.com/lorenzosyku/github-readme-stats)
 
