@@ -3,11 +3,13 @@
 
 👨🏼‍💻 building cool apps!  
 🧠 learning [nextjs][next], [typescript][typescript], [solidity][solidity] 
+
 💜 loving [react][react], [firebase][firebase],   
 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzosyku)](https://github.com/lorenzosyku/github-readme-stats)
 
 [react]: http://reactjs.org
 [firebase]: https://firebase.google.com
