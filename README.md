@@ -9,7 +9,7 @@
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzosyku)](https://github.com/lorenzosyku/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzosyku&theme=cobalt)](https://github.com/lorenzosyku/github-readme-stats)
 
 [react]: http://reactjs.org
 [firebase]: https://firebase.google.com
