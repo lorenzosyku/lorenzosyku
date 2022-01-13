@@ -3,44 +3,45 @@
 
 👨🏼‍💻 Building cool apps! 
 
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+## Languages
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Javascript</span><br><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>React</span><br><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Tailwindcss</span><br><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Firebase</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Git</span><br><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Visual Studio Code</span><br><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div>
+  <div>
+    <span>Javascript</span><br><br><br>
+    <img height="32px" src="https://cdn.svgporn.com/logos/javascript.svg">
+  </div>
+  <div>
+    <span>React</span><br><br><br>
+    <img height="32px" src="https://cdn.svgporn.com/logos/react.svg">
+  </div>
+  <div>
+    <span>Nextjs</span><br><br><br>
+    <img height="32px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+  </div>
+  <div>
+    <span>Tailwindcss</span><br><br><br>
+    <img height="32px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
+  </div>
+
+</div>
+
+## Tools 
+
+<div>
+  <div>
+    <span>Firebase</span><br><br><br>
+    <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+  </div>
+  <div>
+    <span>Git</span><br><br><br>
+    <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+  </div>
+  <div>
+    <span>Visual Studio Code</span><br><br><br>
+    <img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+  </div>
+</div>
+
 
 
 🧠 Learning [nextjs][next], [typescript][typescript], [solidity][solidity] 
