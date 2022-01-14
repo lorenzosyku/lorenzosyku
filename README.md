@@ -11,7 +11,7 @@
 
 ## Languages
 
-[<img height="32px" style="margin: 5px" src="https://cdn.svgporn.com/logos/javascript.svg">](https://www.javascript.com) [<img height="32px" src="https://cdn.svgporn.com/logos/react.svg">](https://reactjs.org) [<img height="32px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">](https://tailwindcss.com)
+[<img height="32px" style="margin: 5px" src="https://cdn.svgporn.com/logos/javascript.svg">](https://www.javascript.com) [<img height="32px" src="https://cdn.svgporn.com/logos/react.svg">](https://reactjs.org) [<img height="26px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">](https://tailwindcss.com)
 
 ## Tools 
 
