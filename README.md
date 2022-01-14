@@ -15,7 +15,7 @@
 
 ## Tools 
 
-[<img height="32px" src="https://cdn.svgporn.com/logos/firebase.svg">](https://firebase.google.com/) [<img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg">](https://git-scm.com/) [<img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">](https://code.visualstudio.com/)
+[<img height="32px" src="https://cdn.svgporn.com/logos/firebase.svg">](https://firebase.google.com/) [<img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg">](https://git-scm.com/) [<img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">](https://code.visualstudio.com/) [<img height="32px" src="https://img.search.brave.com/7TuOLuZNgs_fMofMk5VizBOmjjVekN2MqBwLTvn8Uz4/fit/200/225/ce/1/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC44/ZmYxRlg2RUQ1aVJB/dTFPZ2dYaDdBRElE/SSZwaWQ9QXBp">](https://moralis.io/)
 
 ## 📈 GitHub Stats
 
