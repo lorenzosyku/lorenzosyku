@@ -35,4 +35,4 @@
 [solidity]: https://github.com/ethereum/solidity
 [typescript]: https://www.typescriptlang.org
 [website]: https://suspicious-noyce-d853fc.netlify.app
-[linkedin]: https://linkedin.com/in/lorenzosyku
+[linkedin]: https://linkedin.com/in/LorenzoSyku
