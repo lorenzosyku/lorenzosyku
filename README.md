@@ -23,11 +23,11 @@
 
 ## 📈 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzosyku&show_icons=true&theme=dracula)](https://github.com/lorenzosyku/github-readme-stats)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lorenzosyku&theme=blue-green)](https://github.com/lorenzosyku/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzosyku&layout=compact)](https://github.com/lorenzosyku/github-readme-stats)
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=lorenzosyku&theme=blue-green)](https://github.com/lorenzosyku/github-readme-streak-stats)
 
 
 
