@@ -23,7 +23,7 @@
 
 ## 📈 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzosyku&show_icons=true&theme=dracula)](https://github.com/lorenzosyku/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzosyku&layout=compact)](https://github.com/lorenzosyku/github-readme-stats)
 
