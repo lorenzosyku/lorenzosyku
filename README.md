@@ -13,9 +13,13 @@
 
 [<img height="32px" style="margin: 5px" src="https://cdn.svgporn.com/logos/javascript.svg">](https://www.javascript.com) [<img height="32px" src="https://img.search.brave.com/UeSVcx8U1Vt5yaU3g9CPjcpWUVt9yKOFJo0C_UVfZyQ/fit/632/225/ce/1/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5j/UVY1OU1MS25PbWJX/Z1h6MHJlam1BSGFG/aiZwaWQ9QXBp">](https://developer.mozilla.org/en-US/docs/Web/HTML) [<img height="32px" src="https://img.search.brave.com/W7Cue6yM138iuzNwWXofSL9tWe0hlWPpF5cYK4b_7gE/fit/250/225/ce/1/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC53/Y2o4eU1FZm0yRnRa/bE95cVpJd1R3QUFB/QSZwaWQ9QXBp">](https://developer.mozilla.org/en-US/docs/Web/css) [<img height="26px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">](https://tailwindcss.com)
 
+## Favourite JS Library
+
+[<img height="32px" src="https://cdn.svgporn.com/logos/react.svg">](https://reactjs.org)
+
 ## Favourite Frameworks
 
-[<img height="32px" src="https://cdn.svgporn.com/logos/react.svg">](https://reactjs.org) [<img height="32px" src="https://img.search.brave.com/6eiRTZ24Wbo9L8Hob79RwAmRb8h2MCspCfopd_Gp0I8/fit/497/225/ce/1/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5T/azFFajE4QnlCdGpD/MV9LYVBzWkpnQUFB/QSZwaWQ9QXBp">](https://nextjs.org)
+[<img height="32px" src="https://img.search.brave.com/6eiRTZ24Wbo9L8Hob79RwAmRb8h2MCspCfopd_Gp0I8/fit/497/225/ce/1/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5T/azFFajE4QnlCdGpD/MV9LYVBzWkpnQUFB/QSZwaWQ9QXBp">](https://nextjs.org)
 
 ## Tools 
 
