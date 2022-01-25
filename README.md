@@ -33,8 +33,6 @@
 
 [![Anurag's's github stats](https://github-readme-stats.vercel.app/api?username=lorenzosyku&theme=blue-green)](https://github.com/lorenzosyku/github-readme-stats)[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=lorenzosyku&theme=blue-green)](https://github.com/lorenzosyku/github-readme-streak-stats)
 
-<a href="https://github.com/lorenzosyku/github-readme-activity-graph"><img alt="Lorenzo Syku's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lorenzosyku&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzosyku&theme=blue-green)](https://github.com/lorenzosyku/github-readme-stats)
 
 
