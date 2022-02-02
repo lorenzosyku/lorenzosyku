@@ -25,7 +25,7 @@
 
 [<img height="32px" src="https://img.search.brave.com/6eiRTZ24Wbo9L8Hob79RwAmRb8h2MCspCfopd_Gp0I8/fit/497/225/ce/1/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5T/azFFajE4QnlCdGpD/MV9LYVBzWkpnQUFB/QSZwaWQ9QXBp">](https://nextjs.org)
 
-## Favourite Backend Framework
+## Favourite Backend Menagment Systems
 
 [<img height="32px" src="https://img.search.brave.com/mi8bdI7DYQwT_XaYHROM4Lu3PL9ZWuG1Ao2U1vgqoCg/rs:fit:320:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5U/OEhCVEVpRS1Fc1J5/SDhVRWZjMXh3QUFB/QSZwaWQ9QXBp">](https://sanity.io)
 ## Tools 
