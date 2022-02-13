@@ -15,7 +15,7 @@
 
 ## Languages
 
-[<img height="32px" style="margin: 5px" src="https://cdn.svgporn.com/logos/javascript.svg">](https://www.javascript.com) [<img height="32px" style="margin: 5px" src="https://img.search.brave.com/imqmGxXeuPE7_DHpWsH5iZvJDXjW81t7fZB3JqHRxDw/rs:fit:400:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5H/cm5VTnAxaGd5N3gw/Z0NPOFNRRzFnQUFB/QSZwaWQ9QXBp">](https://www.typescript.com) [<img height="32px" src="">](https://developer.mozilla.org/en-US/docs/Web/HTML) [<img height="32px" src="">](https://developer.mozilla.org/en-US/docs/Web/css) [<img height="32px" src="https://img.search.brave.com/DRibVpS2vkcJQ-4mMSsWfpqlBHGGf_U59--mkVP3RmM/rs:fit:546:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5v/N2M3ZnRYQ0xkUURz/ZkU5TmtXQ3Z3SGFH/YiZwaWQ9QXBp">](https://tailwindcss.com)
+[<img height="32px" style="margin: 5px" src="https://cdn.svgporn.com/logos/javascript.svg">](https://www.javascript.com) [<img height="32px" style="margin: 5px" src="https://img.search.brave.com/imqmGxXeuPE7_DHpWsH5iZvJDXjW81t7fZB3JqHRxDw/rs:fit:400:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5H/cm5VTnAxaGd5N3gw/Z0NPOFNRRzFnQUFB/QSZwaWQ9QXBp">](https://www.typescript.com) [<img height="32px" src="https://img.icons8.com/color/48/000000/html-5.png">](https://developer.mozilla.org/en-US/docs/Web/HTML) [<img height="32px" src="https://img.icons8.com/color/48/000000/css3.png">](https://developer.mozilla.org/en-US/docs/Web/css) [<img height="32px" src="https://img.search.brave.com/DRibVpS2vkcJQ-4mMSsWfpqlBHGGf_U59--mkVP3RmM/rs:fit:546:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5v/N2M3ZnRYQ0xkUURz/ZkU5TmtXQ3Z3SGFH/YiZwaWQ9QXBp">](https://tailwindcss.com)
 
 ## Favourite JS Library
 
