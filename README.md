@@ -23,7 +23,7 @@
 
 ## Favourite Frameworks
 
-[<img height="32px" src="https://img.search.brave.com/6eiRTZ24Wbo9L8Hob79RwAmRb8h2MCspCfopd_Gp0I8/fit/497/225/ce/1/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5T/azFFajE4QnlCdGpD/MV9LYVBzWkpnQUFB/QSZwaWQ9QXBp">](https://nextjs.org)
+[<img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">](https://nextjs.org)
 
 ## Favourite Backend Menagment Systems
 
