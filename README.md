@@ -3,9 +3,9 @@
 
 👨🏼‍💻 Building cool apps! 
 
-🧠 Learning [nextjs][next], [typescript][typescript], [solidity][solidity] 
+🧠 Learning [nextjs][next], [typescript][typescript], [solidity][solidity], [firebase][firebase] 
 
-💜 Loving [react][react], [firebase][firebase] 
+💜 Loving [react][react]
 
 🏡 [website][website] **|**  👔 [linkedin][linkedin]
 
