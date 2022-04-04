@@ -27,7 +27,7 @@
 
 ## Favourite Frameworks
 
-[<img height="32px" src="https://imgs.search.brave.com/GnST36KHKagWQGnXzWZTd1nNdbT6Cx9cxHhYlW4jpyc/rs:fit:280:280:1/g:ce/aHR0cHM6Ly9wbHVz/cG5nLmNvbS9pbWct/cG5nL25leHQtbG9n/by1wbmctYnVpbGQt/YS11bml2ZXJzYWwt/amF2YXNjcmlwdC1h/cHAtd2l0aC1uZXh0/LWpzLTI4MC5wbmc">](https://nextjs.org)
+[<img height="38px" width="76px" src="https://imgs.search.brave.com/GnST36KHKagWQGnXzWZTd1nNdbT6Cx9cxHhYlW4jpyc/rs:fit:280:280:1/g:ce/aHR0cHM6Ly9wbHVz/cG5nLmNvbS9pbWct/cG5nL25leHQtbG9n/by1wbmctYnVpbGQt/YS11bml2ZXJzYWwt/amF2YXNjcmlwdC1h/cHAtd2l0aC1uZXh0/LWpzLTI4MC5wbmc">](https://nextjs.org)
 
 ## Tools 
 
