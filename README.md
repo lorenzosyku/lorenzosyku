@@ -15,7 +15,7 @@
 
 ## DailyDev
 
-<a href="https://app.daily.dev/XhaxhiLenzi"><img src="https://api.daily.dev/devcards/ab1fa8515c5149fc92724fcb18412984.png?r=0il" width="200" alt="lorenzo's Dev Card"/></a>
+<a href="https://app.daily.dev/XhaxhiLenzi"><img src="https://api.daily.dev/devcards/ab1fa8515c5149fc92724fcb18412984.png?r=ml3" width="400" alt="lorenzo's Dev Card"/></a>
 
 ## Languages
 
