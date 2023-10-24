@@ -25,7 +25,7 @@ I am passionate about building cutting-edge software solutions, whether it's a w
 If you have an interesting project, a collaboration idea, or just want to chat about technology, feel free to reach out to me. I'm always excited to work on new projects and connect with like-minded individuals in the tech community.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourname)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github)](https://github.com/lorenzosyku)
 [![Website](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge)](https://yourwebsite.com)
 
 
