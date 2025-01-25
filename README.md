@@ -36,5 +36,4 @@ If you have an interesting project, a collaboration idea, or just want to chat a
 
 ## 📈 GitHub Stats
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=lorenzosyku&theme=blue-green)](https://github.com/lorenzosyku/github-readme-streak-stats)
 
