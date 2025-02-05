@@ -1,7 +1,7 @@
 
 # Hi, I'm Lorenzo!
 
-I'm a passionate and multi-talented software developer with expertise in a wide range of technologies. I enjoy creating robust and user-friendly software solutions and have experience in various programming languages and frameworks.
+I enjoy creating robust and user-friendly software solutions and have experience in various programming languages and frameworks.
 
 ## My Skills
 
@@ -33,7 +33,5 @@ If you have an interesting project, a collaboration idea, or just want to chat a
 
 [![Codewars Badge](https://www.codewars.com/users/pokip/badges/large)](https://www.codewars.com/users/pokip/)
 
-
-## 📈 GitHub Stats
 
 
